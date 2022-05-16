@@ -1,0 +1,9 @@
+
+# for registry development
+nordicscir:
+  host: db
+  name: NordicScirReportDataStaging
+  user: root
+  pass: root
+  disp: ForNordicscirDevOnly
+
